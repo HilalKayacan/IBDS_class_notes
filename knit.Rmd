@@ -1,0 +1,40 @@
+---
+title: "IBDS_notes"
+author: "Kayacan"
+date: "2022-10-09"
+output: 
+   html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 2
+    
+---
+# Heading 1
+Molecular biology is cool because:
+
+- It solves the mysteries of ***life***.
+-It is awesome because it helps you create **powerful** figures.
+-It helps us cheat death thanks to *drugs*. 
+
+![](https://media2.giphy.com/media/7lJS5XhArJ3TUR6ecY/giphy.gif?cid=ecf05e474zlppu99cz1un3btnlxjhznwmtk3lc17bxt2gma2&rid=giphy.gif&ct=g)
+
+# Heading 2
+
+```{r,eval=FALSE}
+# 2 plus 2 equals 4
+
+print(2+2)
+
+```
+
+
+```{r}
+
+plot(pressure)
+
+
+```
+
+
+
+
